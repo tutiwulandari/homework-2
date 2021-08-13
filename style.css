@@ -1,24 +1,26 @@
 .container {
-  width: 40%;
+  width: 70% !important;
   margin: auto;
+
 }
 
 .container .header {
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 h2 {
-  margin-left: 148px;
+  margin-left: -20px;
 }
 
 .profile-name p {
-  margin-left: 148px;
+  margin-left: -20px;
   margin-top: 30px;
 }
 
 .photo-profile {
-  width: 100%;
-  height: 100%;
+  width: 243px;
+  height: 200px;
 }
 
 h4 {
@@ -26,7 +28,7 @@ h4 {
 }
 
 .col-6 h4 {
-  margin-left: 148px;
+  margin-left: -20px;
 }
 
 li {
@@ -46,46 +48,47 @@ li {
 .content .row .col-6 p {
   font-size: 16px;
   margin-top: 10px;
-  margin-left: 148px;
+  margin-left: -20px;
 }
 
 .hero h3 {
-    margin-left: 148px;
-    font-weight: bold;
-    color: #136223;
-    font-size: 18px;
+  margin-left: -20px;
+  font-weight: bold;
+  color: #136223;
+  font-size: 18px;
 }
 
 .hero img {
-    margin-left: 148px;
-    margin-top: 20px;
-    border-radius: 20px;
-    width: 246px;
-    height: 180px;
+  margin-left: -20px;
+  margin-top: 20px;
+  border-radius: 20px;
+  width: 246px;
+  height: 180px;
 }
 .hero h2 {
-    font-size: 30px;
-    margin-left: 10px;
-    font-weight: bold;
-    color: #21243D;
-    margin-top: 20px;
+  font-size: 30px;
+  margin-left: -100px !important;
+  font-weight: bold;
+  color: #21243d;
+  margin-top: 20px;
 }
 
 .hero button {
-    border-radius: 20px;
-    margin-left: 10px;
-    font-weight: bold;
-    width: 100px;
+  border-radius: 20px;
+  margin-left: -100px !important;
+  font-weight: bold;
+  width: 100px;
 }
 
 .hero p {
-    margin-left: 10px;
-    color:#21243D;
-    margin-top: 10px;
+  margin-left: -100px !important;
+
+  color: #21243d;
+  margin-top: 10px;
 }
 
 .hero h6 {
-    margin-left: -150px;
-    color: #8695A4;
-    margin-top: 5px;
+  margin-left: -200px!important;
+  color: #8695a4;
+  margin-top: 5px;
 }
